@@ -1,0 +1,11 @@
+Verizon_Android : 14:47:34 : Verizon Android - Bootstrap : Command line = 
+Verizon_Android : 14:47:34 : Verizon Android - Bootstrap : [CTLBootstrap_AndroidIOMgr::SendCtrlCommand] begin. Drv=K:,dwIoControlCode=2967568
+Verizon_Android : 14:47:34 : Verizon Android - Bootstrap : [CTLBootstrap_AndroidIOMgr::SendCtrlCommand] CreateFile : \\.\K:
+Verizon_Android : 14:47:36 : Verizon Android - Bootstrap : [CTLBootstrap_AndroidIOMgr::SendCtrlCommand] DeviceIoControl dwIoControlCode = 2967568, Result = Failed
+Verizon_Android : 14:47:36 : Verizon Android - Bootstrap : [CTLBootstrap_AndroidIOMgr::SendCtrlCommand] end. Drv=K:,dwIoControlCode=2967568
+Verizon_Android : 14:47:36 : Verizon Android - Bootstrap : copy GdiPlus.dll to C:\Verizon_Android
+Verizon_Android : 14:47:36 : Verizon Android - Bootstrap : copy ModelName.txt to C:\Verizon_Android
+Verizon_Android : 14:47:36 : Verizon Android - Bootstrap : copy Bootstrap-Helper.exe to C:\Verizon_Android
+Verizon_Android : 14:47:36 : Verizon Android - Bootstrap : copy VZW_Software_upgrade_assistant_installer.exe to C:\Verizon_Android
+Verizon_Android : 14:47:36 : Verizon Android - Bootstrap : copy Samsung_Mobile_USB_Driver.exe to C:\Verizon_Android
+Verizon_Android : 14:47:42 : Verizon Android - Bootstrap : TL-Bootstrap set to end.
